@@ -75,7 +75,7 @@ export const projects = [
     {
         id: 1,
         name: "NewsNova",
-        description: "🚨 📰 Live news web app. Interfacing MediaStack API with Next.js, leveraging StepZen for GraphQL queries. Styling with Tailwind CSS and HeadlessUI. Statically typed in TypeScript.",
+        description: "🚨 📰 A live news web app built with Next.js and TypeScript that retrieves real-time headlines from the MediaStack API through a GraphQL layer using StepZen. The interface is styled with Tailwind CSS and Headless UI for a responsive, accessible design.",
         type: "Web Development",
         tech: ["Next.js", "TypeScript", "Tailwind CSS"],
         links: [
@@ -106,7 +106,7 @@ export const projects = [
     {
         id: 2,
         name: "DeepASL",
-        description: "🤖 🖐️ Classification of live ASL alphabet gestures with Convolutional Neural Networks",
+        description: "🤖 🖐️ Real-time classification of American Sign Language (ASL) alphabet gestures using Convolutional Neural Networks.",
         type: "Computer Vision & CNNs",
         tech: ["Python", "OpenCV", "NumPy"],
         links: [

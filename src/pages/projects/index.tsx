@@ -5,9 +5,7 @@ export default function Projects() {
     return (
         <div className="mt-6 flex w-full flex-col items-start justify-start space-y-6">
             <p className="text-left text-sm font-light text-white">
-                A collection of my side projects, each created to expand my
-                skill set across a diverse range of tech, all while building
-                something cool.
+                A collection of side projects built to explore different technologies while creating meaningful, practical software.
             </p>
 
             <ul className="w-full">
